@@ -1,40 +1,55 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/pages/api-reference/create-next-app).
+# Digital Marketing Website Template
 
-## Getting Started
+Welcome to the Digital Marketing Website Template repository! This project is a comprehensive digital marketing website template designed to showcase various services and strategies for effective online marketing.
 
-First, run the development server:
+## Table of Contents
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+- [Digital Marketing Website Template](#digital-marketing-website-template)
+  - [Table of Contents](#table-of-contents)
+  - [Features](#features)
+  - [Technologies Used](#technologies-used)
+  - [Installation](#installation)
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Features
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
+- **Responsive Design**: Optimized for all devices including mobile, tablet, and desktop.
+- **Service Sections**: Detailed information about different digital marketing services offered.
+<!-- - **Blog**: A blog section to share articles and insights on digital marketing trends. -->
+- **Contact Form**: Easy-to-use contact form for potential clients to reach out.
+<!-- - **SEO Optimized**: Designed with best practices for search engine optimization. -->
+- **Modern UI**: Clean and professional user interface using modern web technologies.
 
-[API routes](https://nextjs.org/docs/pages/building-your-application/routing/api-routes) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
+## Technologies Used
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/pages/building-your-application/routing/api-routes) instead of React pages.
+- HTML5
+- CSS3
+- JavaScript
+- Tailwind CSS
+- React
+- Gsap
+<!-- - [Node.js](https://nodejs.org/)
+- [Express](https://expressjs.com/)
+- [MongoDB](https://www.mongodb.com/) -->
 
-This project uses [`next/font`](https://nextjs.org/docs/pages/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## Installation
 
-## Learn More
+To get a local copy up and running, follow these simple steps:
 
-To learn more about Next.js, take a look at the following resources:
+1. **Clone the repository:**
+   ```sh
+   git clone https://github.com/KumarRahul01/Marketing-Website.git
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn-pages-router) - an interactive Next.js tutorial.
+2. **Navigate to the project directory:**
+    ```sh
+    cd digital-marketing-website
+  
+3. **Install dependencies:**
+   ```sh
+   npm install
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+4. **To run:**
+   ```sh
+   npm run dev
 
-## Deploy on Vercel
+Open your browser and go to http://localhost:5173/Marketing-Website/ to see the website in action.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/pages/building-your-application/deploying) for more details.
